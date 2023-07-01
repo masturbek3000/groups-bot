@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import ChatPermissions
 from datetime import timedelta
 
-API_TOKEN = '6215191160:AAGkFHh-PzRemw__sV44Ni6CcwtS8tLleEw'
+API_TOKEN = 'lox, use ur token'
 
 logging.basicConfig(level=logging.INFO)
 
